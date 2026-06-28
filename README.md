@@ -1,8 +1,5 @@
 # Deloitte Job Simulation 🚀
 
-![Banner](https://your-banner-link-here)  
-*(Replace with a branded banner or Deloitte‑style visual)*
-
 ## 📌 Overview
 This repository documents my Deloitte Job Simulation experience, showcasing problem‑solving, data analysis, and consulting skills in a professional context.  
 The project simulates real‑world tasks aligned with Deloitte’s consulting and technology practices.
