@@ -17,6 +17,41 @@ The project simulates real‑world tasks aligned with Deloitte’s consulting an
 
 ---
 
+⚙️ Tech Stack
+Python (pandas, numpy, matplotlib, seaborn)
+
+Jupyter Notebook for analysis
+
+PowerPoint / Markdown for presentations
+
+GitHub for version control and repo branding
+
+📊 Key Deliverables
+Data cleaning and preprocessing
+
+Exploratory data analysis (EDA)
+
+Business insights and recommendations
+
+Final consulting report
+
+---
+
+🏆 Outcomes
+Strengthened consulting mindset
+
+Enhanced data storytelling skills
+
+Portfolio project aligned with Deloitte’s professional standards
+
+📌 Badges
+https://img.shields.io/badge/Python-3.9-blue  
+https://img.shields.io/badge/Jupyter-Notebook-orange  
+https://img.shields.io/badge/Status-Completed-success
+
+---
+
+
 ## 🗂️ Project Structure
 ```bash
 Deloitte-Job-Simulation/
@@ -26,3 +61,4 @@ Deloitte-Job-Simulation/
 ├── reports/             # Final deliverables (PDF, PPT, Markdown)
 ├── scripts/             # Python scripts for automation
 └── README.md            # Project documentation
+
