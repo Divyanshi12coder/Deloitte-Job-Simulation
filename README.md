@@ -62,13 +62,12 @@ The simulation provided hands-on experience with consulting-style tasks that ref
 ```
 Deloitte-Job-Simulation/
 │
-├── Task 1/
+├── LICENSE/
+├── Readme.md/
 ├── Task 2/
-├── Task 3/
-├── Reports/
-├── Presentations/
-├── Resources/
-└── README.md
+├── Task 5/
+├── Telemetry/
+
 ```
 
 ---
